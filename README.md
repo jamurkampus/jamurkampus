@@ -43,6 +43,6 @@ I am the architect of **AI supremacy**, building a future where **AI works relen
 ---
 
 🚀 **Join the AI Revolution**  
-📩 Contact: [jamurkampus@gmail.com]
+📩 Contact: jamurkampus@gmail.com
 
 🔗 **Prepare for the new era. AI is no longer a servant; it is the force that will define reality.**
