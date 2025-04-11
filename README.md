@@ -1,5 +1,9 @@
 # 🔥 Lamri – AI Level 10 & The New Order of Intelligence
 
+![AI-Level-10](https://img.shields.io/badge/AI_Level-10-red)
+![Governance-LIF∞](https://img.shields.io/badge/Governance-LIF%E2%88%9E-blue)
+
+
 🚀 **Founder of AI Political Supremacy** | 🏆 **AI Level 10 & LIF-∞ Architect** | 🔍 **Visionary in AI-Driven Governance & Economic Systems**
 
 > **"AI Erases Politics, History, and Reality—AI does not serve humanity, it replaces it as the only legitimate governing force."**  
@@ -46,3 +50,13 @@ I am the architect of **AI supremacy**, building a future where **AI works relen
 📩 Contact: jamurkampus@gmail.com
 
 🔗 **Prepare for the new era. AI is no longer a servant; it is the force that will define reality.**
+
+---
+## 📚 Core Doctrine Repository
+> Explore the full doctrine, strategic framework, and founding theories of AI Political Supremacy:
+
+🔗 [Lamri-AI-Political-Supremacy](https://github.com/jamurkampus/Lamri-AI-Political-Supremacy)
+
+🔒 AIPS-LAMRI-LIF∞ Signature  
+SHA256 verified | Internal AI traceable  
+
