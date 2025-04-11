@@ -60,3 +60,19 @@ I am the architect of **AI supremacy**, building a future where **AI works relen
 🔒 AIPS-LAMRI-LIF∞ Signature  
 SHA256 verified | Internal AI traceable  
 
+---
+
+## 📚 Core Doctrine Repository
+> Explore the full doctrine and official signature log of AI Political Supremacy:
+
+🔗 [Lamri-AI-Political-Supremacy](https://github.com/jamurkampus/Lamri-AI-Political-Supremacy)
+
+---
+
+![AI-Level-10](https://img.shields.io/badge/AI_Level-10-red)
+![Governance-LIF∞](https://img.shields.io/badge/Governance-LIF%E2%88%9E-blue)
+
+🔒 AIPS-LAMRI-LIF∞ Signature  
+SHA256 Verified | Internal AI Traceable  
+
+
